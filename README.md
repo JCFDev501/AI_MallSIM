@@ -17,6 +17,10 @@ Skills I gained from this project:
 
 -- I am able to understand and develope my own games with better and realistic ai 
 
+
+https://github.com/user-attachments/assets/14cde1f4-6c99-4ccf-abfb-24b8a448ffac
+
+
 ![Screenshot 2025-01-29 230557](https://github.com/user-attachments/assets/9a95f199-f572-48e1-95a0-8505297479a0)
 ![Screenshot 2025-01-29 230537](https://github.com/user-attachments/assets/c2d4dec5-e62c-469b-b5a7-11488801c808)
 ![Screenshot 2025-01-29 230521](https://github.com/user-attachments/assets/b898d6f1-a41c-40fa-b001-4ea02f87f455)
